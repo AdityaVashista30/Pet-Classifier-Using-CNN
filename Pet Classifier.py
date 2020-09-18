@@ -1,16 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 24 16:44:14 2020
 
-@author: Hp
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 12 12:54:36 2020
-
-@author: Hp
-"""
 
 import tensorflow
 from keras_preprocessing.image import ImageDataGenerator
